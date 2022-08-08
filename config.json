@@ -1,0 +1,6 @@
+{
+    "lisPath": "http://10.43.95.2:8001/api/update_result.php?specimen_id=#{SPECIMEN_ID}&measure_id=#{MEASURE_ID}&result=#{RESULT}&dec=0&machine_name=sysmex-xp300",
+    "lisUser": "administrator",
+    "lisPassword": "kchlims",
+    "machineName": "sysmex-xp300"
+}
